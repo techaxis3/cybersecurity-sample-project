@@ -1,0 +1,10 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore backup files
+*.bak
+*.tmp
